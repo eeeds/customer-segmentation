@@ -48,6 +48,7 @@ pip install -r requirements.txt
 ![DBSCAN](images/dbscan.png)
 ## Gaussian Mixture Models and EM
 [Code](notebooks/5_Gaussian_mixture_models_and_EM.ipynb)
-
+-   It's performed better using PCA (n_components=3), silhouette score is 0.65.
+![GMM](images/GMM.png)
 
 
